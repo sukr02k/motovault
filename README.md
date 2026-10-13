@@ -24,15 +24,6 @@
 
 ---
 
-## Unduh Aplikasi (Release APK)
-
-| Versi | Format | Arsitektur Target | Ukuran File | Tautan Unduh |
-| :--- | :--- | :--- | :--- | :--- |
-| **v1.2.0** | `.apk` (Release) | `arm64-v8a` (Android modern 64-bit) | **33 MB** | [Download MotoVault.v1.2.0.apk](https://github.com/sukr02k/motovault/releases/download/v1.2.0/MotoVault.v1.2.0.apk) |
-| **v1.2.0** | Arsip Asset Lengkap | Semua ABI (`arm64`, `armeabi-v7a`, `x86_64`) | ~27 - 35 MB | [Lihat Semua Asset di GitHub Releases](https://github.com/sukr02k/motovault/releases/tag/v1.2.0) |
-
----
-
 ## Ringkasan Project (Overview)
 
 **MotoVault** adalah aplikasi pencatatan operasional dan perawatan kendaraan pribadi (sepeda motor maupun mobil) yang dirancang dengan pendekatan **100% Offline-First**. Seluruh pencatatan konsumsi bahan bakar (`km/L`), riwayat servis berkala, pemantauan masa berlaku dokumen kendaraan (STNK, Pajak Tahunan/PKB, BPKB, SIM, Asuransi), hingga pemindaian struk SPBU/bengkel berbasis *on-device OCR* berjalan langsung di perangkat menggunakan **SQLite** tanpa ketergantungan koneksi internet.
